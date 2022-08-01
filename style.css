@@ -1,0 +1,54 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+.navbar input {
+  border: none;
+  background-color: #f1f1f1;
+}
+.search-bar {
+  background-color: #f1f1f1;
+  border-radius: 20px;
+  padding: 2px 10px;
+}
+.navbar i {
+  margin-left: 5px;
+}
+.navbar a {
+  text-decoration: none;
+  color: #707070;
+  margin-left: 25px;
+}
+.carousel-item img {
+  width: 402px;
+  height: 378px;
+}
+.slider-background {
+  background-color: #feeae9;
+}
+.panda-btn-buy-now-top {
+  background-image: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  color: white;
+  border-radius: 8px;
+  padding: 7px 20px;
+  border: none;
+}
+main {
+  background-color: #f4f4f4;
+}
+
+.panda-btn-buy-now-products {
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+  padding: 7px 20px;
+  border: none;
+}
+.subscribe-area {
+  background-color: #feeae9;
+}
+.subscribe-area button {
+  padding: 8px 15px;
+  background-image: linear-gradient(180deg, #ff589b -0.01%, #ff136f 99.99%);
+  color: white;
+  border-radius: 5px;
+}
